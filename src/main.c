@@ -5,9 +5,6 @@
  * Original URL:
  * https://github.com/AliKarahanci/quark
  *
- * Compile:
- * gcc quark.c -o quark
- *
  */
 
 #include <stdio.h>
